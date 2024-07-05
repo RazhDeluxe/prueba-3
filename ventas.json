@@ -1,0 +1,77 @@
+[
+    {
+        "nombres":"Café Americano",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Té Chai",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Croissant",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Jugo Naranja",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Panini de Pavo y Queso",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Pastel de Zanahoria",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Espresso Doble",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Batido de Frutas",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Muffin",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Ensalada",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Chocolate Caliente",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Tarta de Frambuesa",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Sándwich de Huevo",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Galletas de Avena",
+        "valor": 0,
+        "iva_producto": 0
+    },
+    {
+        "nombres":"Frappé de Caramelo",
+        "valor": 0,
+        "iva_producto": 0
+    }
+]
